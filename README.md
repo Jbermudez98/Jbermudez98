@@ -2,8 +2,11 @@
 Tengo conocimiento y/o experiencia en:
 
 -👉 Microsoft Office 365 (Intermedio - Avanzado) 
+
 -👉 Inglés (Intermedio o B1).
+
 -👉 Python (Intermedio) además de conocimiento en librerías como Pandas, Numpy, Matplotlib.
+
 -👉 Manejo de bases de datos y MySQL (Básico).
 
 A día de hoy sigo fortaleciendo mis habilidades y conocimientos por medio de cursos y documentación disponible en internet.
